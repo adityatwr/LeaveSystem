@@ -1,0 +1,31 @@
+﻿@using LeaveApprovalSystem.Core.Enums
+@using LeaveApprovalSystem.Web.Helper
+@model LeaveApprovalSystem.Web.Models.ApplyLeaveViewModel
+@{
+    ViewBag.Title = "Apply for Leave";
+    var today = DateTime.Now.ToString("yyyy/MM/dd");
+    ViewBag.LeaveTypeList = SelectListHelper.GetLeaveTypeSelectList();
+}
+<h2>Apply for Leave</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(m => m.LeaveType)
+        @Html.DropDownListFor(m => m.LeaveType, (IEnumerable<SelectListItem>)ViewBag.LeaveTypeList,"Select Leave type", new {@class="form-control"})
+        @Html.ValidationMessageFor(m => m.LeaveType, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.StartDate)
+        @Html.TextBoxFor(m => m.StartDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date", min = "@today" })
+        @Html.ValidationMessageFor(m => m.StartDate, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.EndDate)
+        @Html.TextBoxFor(m => m.EndDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date", min = "@today" })
+        @Html.ValidationMessageFor(m => m.EndDate, "", new { @class = "text-danger" })
+    </div>
+    <button type="submit" class="btn btn-success">Submit</button>
+}
+<a href="@Url.Action("MyLeaves")" class="btn btn-default">Back</a>

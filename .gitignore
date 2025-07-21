@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LeaveApprovalSystem/LeaveApprovalSystem/.vs/LeaveApprovalSystem/FileContentIndex
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Core/bin/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Core/obj
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Data/bin/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Data/obj/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Data/obj/Release/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Data/obj
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Domain/bin/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Domain/obj/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Domain/obj/Release/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Domain/obj
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Web/bin/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Web/obj/Debug/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Web/obj/Release/net8.0
+/LeaveApprovalSystem/LeaveApprovalSystem/LeaveApprovalSystem.Web/obj

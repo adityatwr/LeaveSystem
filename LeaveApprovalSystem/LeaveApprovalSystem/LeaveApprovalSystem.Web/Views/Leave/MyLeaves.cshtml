@@ -1,0 +1,40 @@
+﻿@using LeaveApprovalSystem.Core.Enums
+@model IEnumerable<LeaveApprovalSystem.Web.Models.LeaveRequestViewModel>
+@{
+    ViewBag.Title = "My Leave Requests";
+}
+<h2>My Leave Requests</h2>
+<p>
+    <a class="btn btn-primary" href="@Url.Action("Apply")">Apply for Leave</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Status</th>
+            <th>Remarks</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var leave in Model)
+        {
+            <tr>
+                <td>@leave.LeaveType</td>
+                <td>@leave.StartDate.ToShortDateString()</td>
+                <td>@leave.EndDate.ToShortDateString()</td>
+                <td>@leave.Status</td>
+                <td>@leave.ManagerRemarks</td>
+                <td>
+                    @if (leave.Status == "Pending")
+                    {
+                        <a class="btn btn-sm btn-info" href="@Url.Action("Edit", new { id = leave.Id })">Edit</a>
+                        <a class="btn btn-sm btn-danger" href="@Url.Action("Cancel", new { id = leave.Id })">Cancel</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
