@@ -36,6 +36,19 @@ namespace LeaveApprovalSystem.Domain
             }
         }
 
+        public async Task<Employee> GetEmployeeByEmployeeIdAsync(string EmployeeId)
+        {
+            try
+            {
+                return await _employeeRepo.GetByIdentifierAsync("EmployeeNumber", EmployeeId);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error in GetEmployeeByEmployeeIdAsync. EmployeeId: {EmployeeId}", EmployeeId);
+                return null;
+            }
+        }
+
         public async Task<IEnumerable<Employee>> GetAllEmployeesAsync()
         {
             try

@@ -34,6 +34,21 @@ namespace LeaveApprovalSystem.Domain
                 return new List<LeaveRequest>();
             }
         }
+
+        public async Task<IEnumerable<LeaveRequest>> GetLeaveRequestsAllAsync()
+        {
+            try
+            {
+                var all = await _leaveRepo.GetAllAsync("Employee");
+                return all;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error getting leave requests all");
+                return new List<LeaveRequest>();
+            }
+        }
+
         public async Task<LeaveRequest> GetLeaveRequestByIdAsync(int id)
         {
             try

@@ -10,6 +10,8 @@ namespace LeaveApprovalSystem.Core.Interfaces
     public interface IEmployeeService
     {
         Task<Employee> GetEmployeeByIdAsync(int id);
+
+        Task<Employee> GetEmployeeByEmployeeIdAsync(string EmployeeId);
         Task<IEnumerable<Employee>> GetAllEmployeesAsync();
         // For future: create, update, delete, etc.
     }

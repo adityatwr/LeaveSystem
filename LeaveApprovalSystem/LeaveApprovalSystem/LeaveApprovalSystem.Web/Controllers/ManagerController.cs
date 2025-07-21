@@ -1,4 +1,5 @@
-﻿using LeaveApprovalSystem.Core.Enums;
+﻿using LeaveApprovalSystem.Core.Entities;
+using LeaveApprovalSystem.Core.Enums;
 using LeaveApprovalSystem.Core.Interfaces;
 using LeaveApprovalSystem.Web.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -53,7 +54,11 @@ namespace LeaveApprovalSystem.Web.Controllers
         private IEnumerable<ManagerLeaveRequestViewModel> GetLeaveRequestByStatus(int[] status)
         {
             int managerId = GetCurrentUserId();
-            var requests = _leaveRequestService.GetLeaveRequestsForManagerAsync(managerId).Result;
+            IEnumerable<LeaveRequest> requests = null;
+            if (HttpContext.Session.GetString("Role") == "2")
+                requests = _leaveRequestService.GetLeaveRequestsAllAsync().Result;
+            else
+                requests = _leaveRequestService.GetLeaveRequestsForManagerAsync(managerId).Result;
 
             var vm = requests.Where(r => status.Contains(r.Status)).Select(lr => new ManagerLeaveRequestViewModel
             {

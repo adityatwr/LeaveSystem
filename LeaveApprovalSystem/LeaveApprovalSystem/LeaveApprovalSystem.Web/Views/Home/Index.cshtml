@@ -1,30 +1,29 @@
 ﻿@model LoginViewModel
 
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Login Page";
 }
 
 <div class="text-center">
     @if (string.IsNullOrEmpty(Model.EmployeeName))
     {
         <form asp-action="Index" method="post">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
             <div class="form-group">
                 <label asp-for="EmployeeId">Employee Id:</label>
                 <input asp-for="EmployeeId" class="form-control" />
+                @Html.ValidationMessageFor(m => m.EmployeeId, "", new { @class = "text-danger" })
             </div>
             <div class="form-group">
-                <label>Are you an approver?</label><br />
-                <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" asp-for="IsApprover" name="IsApprover" value="true" id="isApproverYes">
-                    <label class="form-check-label" for="isApproverYes">Yes</label>
-                </div>
-                <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" asp-for="IsApprover" name="IsApprover" value="false" id="isApproverNo">
-                    <label class="form-check-label" for="isApproverNo">No</label>
-                </div>
+                <label>Password</label>
+                <input type="password" name="Password" class="form-control" required />
+                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
             </div>
             <button type="submit" class="btn btn-primary">Login</button>
         </form>
+        <div class="alert alert-info">
+            <strong>Note:</strong> The default password for all users is <code>P@ssw0rd123</code>.
+        </div>
     }
     else
     {

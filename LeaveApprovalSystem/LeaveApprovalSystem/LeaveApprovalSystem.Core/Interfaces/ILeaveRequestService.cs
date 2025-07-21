@@ -10,6 +10,7 @@ namespace LeaveApprovalSystem.Core.Interfaces
     public interface ILeaveRequestService
     {
         Task<IEnumerable<LeaveRequest>> GetLeaveRequestsForEmployeeAsync(int employeeId);
+        Task<IEnumerable<LeaveRequest>> GetLeaveRequestsAllAsync();
         Task<LeaveRequest> GetLeaveRequestByIdAsync(int id);
         Task RequestLeaveAsync(LeaveRequest leaveRequest);
         Task EditLeaveRequestAsync(int id, DateTime newStart, DateTime newEnd);
