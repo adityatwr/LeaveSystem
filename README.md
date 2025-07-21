@@ -82,35 +82,35 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 
 Architecture Overview
 
-┌─────────────────────────┐
-│     Client Devices      │
-│  (Browser / Mobile App) │
-└──────────┬──────────────┘
-           │ HTTPS/API Calls
-           ▼
-┌─────────────────────────┐
-│ LeaveApprovalSystem.Web │
-│  (MVC / API Server)     │
-└──────────┬──────────────┘
-           │ calls into
-           ▼
-┌─────────────────────────┐
-│ LeaveApprovalSystem.Dom │
-│ ain (Business Logic)    │
-└──────────┬──────────────┘
-           │ uses IRepository<T>
-           ▼
-┌─────────────────────────┐
-│ LeaveApprovalSystem.Dat │
-│ a (EF DbContext & Repos)│
-└──────────┬──────────────┘
-           │ SQL Authentication
-           ▼
-┌─────────────────────────┐
-│     SQL Server DBMS     │
-│  – LeaveSystemDB        │
-│  – User: leavesystem    │
-└─────────────────────────┘
+   ┌─────────────────────────┐
+   │     Client Devices      │
+   │  (Browser / Mobile App) │
+   └──────────┬──────────────┘
+              │ HTTPS/API Calls
+              ▼
+   ┌─────────────────────────┐
+   │ LeaveApprovalSystem.Web │
+   │  (MVC / API Server)     │
+   └──────────┬──────────────┘
+              │ calls into
+              ▼
+   ┌─────────────────────────┐
+   │ LeaveApprovalSystem.Dom │
+   │ ain (Business Logic)    │
+   └──────────┬──────────────┘
+              │ uses IRepository<T>
+              ▼
+   ┌─────────────────────────┐
+   │ LeaveApprovalSystem.Dat │
+   │ a (EF DbContext & Repos)│
+   └──────────┬──────────────┘
+              │ SQL Authentication
+              ▼
+   ┌─────────────────────────┐
+   │     SQL Server DBMS     │
+   │  – LeaveSystemDB        │
+   │  – User: leavesystem    │
+   └─────────────────────────┘
 
     ╔═══════════════════════════╗
     ║ LeaveApprovalSystem.Core ║
