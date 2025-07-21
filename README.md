@@ -1,4 +1,4 @@
-# Leave Approval System
+﻿# Leave Approval System
 
 A web-based leave management system built with ASP.NET MVC, Entity Framework, and SQL Server.
 
@@ -29,9 +29,9 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 
 ### Prerequisites
 
-- [.NET 6 SDK or later](https://dotnet.microsoft.com/en-us/download)
-- [SQL Server 2012+](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Visual Studio 2022+](https://visualstudio.microsoft.com/) (recommended)
+- [.NET 8 SDK]
+- [SQL Server 2012+]
+- [Visual Studio 2022+](recommended)
 
 ### Database Setup
 
@@ -77,6 +77,53 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 - Repository Pattern  
 - Dependency Injection
 
+
+## Architecture Overview
+
+┌───────────────────────┐
+│    Client Devices     │
+│ (Browser / Mobile)    │
+└──────────┬────────────┘
+           │ HTTP(S)/API Calls
+           ▼
+┌───────────────────────────────┐
+│  LeaveApprovalSystem.Web      │
+│  (MVC / API Server, .NET Core)│
+└──────────┬────────────────────┘
+           │ calls into
+           ▼
+┌───────────────────────────────┐
+│  LeaveApprovalSystem.Domain   │
+│ (Business Logic & Services)   │
+└──────────┬────────────────────┘
+           │ uses IRepository<T>
+           ▼
+┌─────────────────────────────────────────┐
+│  LeaveApprovalSystem.Data              │
+│ (EF Core DbContext & Repository Impls) │
+└──────────┬──────────────────────────────┘
+           │ SQL Authentication
+           ▼
+┌───────────────────────┐
+│   SQL Server DBMS     │
+│   – LeaveSystemDB     │
+│   – User: leavesystem │
+└───────────────────────┘
+
+
+          ╔═══════════════════════════╗
+          ║ LeaveApprovalSystem.Core ║
+          ║ • Interfaces (ILeave… )   ║
+          ║ • IRepository<T>          ║
+          ║ • Enums & Value Objects   ║
+          ║ • Base Entities & Helpers ║
+          ╚═══════════════════════════╝
+               ▲       ▲        ▲
+               │       │        │
+     referenced by│       │        │used by
+          ────────┘       └────────┘
+
+
 ---
 
 ## Customization
@@ -90,27 +137,6 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 
 - **Cannot connect to SQL Server:**  
   Ensure SQL Server is running and your credentials are correct.
-- **Dates default to 0001-01-01:**  
+- **Dates default to Today's date:**  
   Make sure you set default dates in your controller before returning the view.
-- **Validation errors not showing:**  
-  Ensure your Razor views have `@Html.ValidationSummary()` and `@Html.ValidationMessageFor`.
 
----
-
-## Contributing
-
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-- [Aditya Tiwari](https://www.linkedin.com/in/aditya-tiwari-sa/)

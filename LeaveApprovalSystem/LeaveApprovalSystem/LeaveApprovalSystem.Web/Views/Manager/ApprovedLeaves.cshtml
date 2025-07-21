@@ -1,0 +1,45 @@
+﻿@model IEnumerable<LeaveApprovalSystem.Web.Models.ManagerLeaveRequestViewModel>
+@{
+    ViewBag.Title = "Processed Leave Requests";
+}
+<h2>@ViewBag.Title</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Employee</th>
+            <th>Type</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Status</th>
+            <th>Remarks</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var leave in Model)
+        {
+            <tr>
+                <td>@leave.EmployeeName</td>
+                <td>@leave.LeaveType</td>
+                <td>@leave.StartDate.ToShortDateString()</td>
+                <td>@leave.EndDate.ToShortDateString()</td>
+                <td>@leave.Status</td>
+                <td>@leave.ManagerRemarks</td>
+                <td>
+                    @if (leave.Status == "Pending")
+                    {
+                        <form action="@Url.Action("Approve", "Manager")" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@leave.Id" />
+                            <input type="text" name="remarks" placeholder="Remarks" class="form-control" style="width:120px;display:inline;" />
+                            <button type="submit" class="btn btn-success btn-sm">Approve</button>
+                        </form>
+                        <form action="@Url.Action("Reject", "Manager")" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@leave.Id" />
+                            <input type="text" name="remarks" placeholder="Remarks" class="form-control" style="width:120px;display:inline;" />
+                            <button type="submit" class="btn btn-danger btn-sm">Reject</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
