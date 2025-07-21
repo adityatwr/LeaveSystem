@@ -15,7 +15,16 @@ namespace LeaveApprovalSystem.Data
         }
 
         public async Task<T> GetByIdAsync(int id) => await _dbSet.FindAsync(id);
+        public async Task<T> GetByIdentifierAsync( string columnName, string identifier) => 
+            await _dbSet
+            .FirstOrDefaultAsync(e =>EF.Property<string>(e, columnName) == identifier);
         public async Task<IEnumerable<T>> GetAllAsync() => await _dbSet.ToListAsync();
+
+        public async Task<IEnumerable<T>> GetAllAsync(string anotherTableName) => 
+            await _dbSet
+            .Include(anotherTableName)
+            .ToListAsync();
+
         public async Task<IEnumerable<T>> GetItemsIdAsync(int id, string anotherTableName) => 
             await _dbSet
                 .Include(anotherTableName)
