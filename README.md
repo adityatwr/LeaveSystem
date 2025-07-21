@@ -36,20 +36,18 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 ### Database Setup
 
 
-1. **Create the Database and User follwed by Connection String Configure:**
-    - Use the `/DbScripts/Create_db_and_user.sql` script to create the database and a SQL Server user on a server
-    - In `appsettings.json`, update the `DefaultConnection` to point to your SQL Server instance.
+1. **Initialize db objects:**
+   - Use the `/DbScripts/Initialize_systemDB.sql` script to create the database, a user, tables and insert employee on the server
+2.  **Connection String Configure:**
+   - In `appsettings.json`, update the `DefaultConnection` to point to your SQL Server instance.
 
     ```json
     "ConnectionStrings": {
-      "DefaultConnection": "Server=YOUR_SERVER;Database=LeaveApprovalDb;User Id=YOUR_USER;Password=YOUR_PASSWORD;TrustServerCertificate=True;"
+      "DefaultConnection": "Server=YOUR_SERVER;Database=LeaveApprovalDb;User Id=YOUR_USER;Password=YOUR_PASSWORD;Trusted_Connection=True;TrustServerCertificate=True;"
     }
     ```
-
-2. **Create Database Tables:**
-    - Use the provided SQL scripts in `/DbScripts/CreateTables.sql` to create and seed the `Employees` and `LeaveRequests` tables.
-
-3. **To insert default or sample employee records, use the `/DbScripts/Insert_Employee.sql` script**
+3. **Check whether you are able to connect to db:**
+    - Sometimes, db refused to connect due to certificates _TrustServerCertificate=True_ worked in this situation..
 
 ---
 
@@ -111,7 +109,7 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
     └─────────────────────────┘
 
     ╔═══════════════════════════╗
-    ║ LeaveApprovalSystem.Core ║
+    ║ LeaveApprovalSystem.Core  ║
     ║ • Interfaces              ║
     ║ • IRepository<T>          ║
     ║ • Enums & Value Objects   ║
