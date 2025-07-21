@@ -17,9 +17,9 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
   - Leaves cannot be applied on weekends or in the past
 
 - **Technical Stack:**  
-  - ASP.NET MVC 5+
+  - ASP.NET MVC 5.2+
   - Entity Framework (Code First)
-  - MS SQL Server 2012+
+  - MS SQL Server 16+
   - Bootstrap (for UI)
   - SOLID principles, n-tier architecture, repository pattern, dependency injection
 
@@ -31,11 +31,13 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 
 - [.NET 8 SDK]
 - [SQL Server 2012+]
-- [Visual Studio 2022+](recommended)
+- [Visual Studio 2022+]
 
 ### Database Setup
 
-1. **Configure Connection String:**
+
+1. **Create the Database and User follwed by Connection String Configure:**
+    - Use the `/DbScripts/Create_db_and_user.sql` script to create the database and a SQL Server user on a server
     - In `appsettings.json`, update the `DefaultConnection` to point to your SQL Server instance.
 
     ```json
@@ -45,12 +47,9 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
     ```
 
 2. **Create Database Tables:**
-    - Use the provided SQL scripts in `/scripts` to create and seed the `Employees` and `LeaveRequests` tables.
+    - Use the provided SQL scripts in `/DbScripts/CreateTables.sql` to create and seed the `Employees` and `LeaveRequests` tables.
 
-3. **Apply Migrations (if using Code First):**
-    ```sh
-    dotnet ef database update
-    ```
+3. **To insert default or sample employee records, use the `/DbScripts/Insert_Employee.sql` script**
 
 ---
 
@@ -68,7 +67,7 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
 ## Architecture
 
 - **Presentation Layer:** ASP.NET MVC (`LeaveApprovalSystem.Web`)
-- **Domain Layer:** Business logic and interfaces (`LeaveApprovalSystem.Domain`)
+- **Domain Layer:** Business logic (`LeaveApprovalSystem.Domain`)
 - **Data Access Layer:** Entity Framework repository pattern (`LeaveApprovalSystem.Data`)
 - **Core Layer:** Entity definitions and shared contracts (`LeaveApprovalSystem.Core`)
 
