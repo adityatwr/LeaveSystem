@@ -47,7 +47,7 @@ A web-based leave management system built with ASP.NET MVC, Entity Framework, an
     }
     ```
 3. **Check whether you are able to connect to db:**
-    - Sometimes, db refused to connect due to certificates _TrustServerCertificate=True_ worked in this situation..
+   - Sometimes, db refused to connect due to certificates, add _TrustServerCertificate=True_ to default connection string.
 
 ---
 
