@@ -10,11 +10,13 @@ namespace LeaveApprovalSystem.Web.Models
 
         [Required]
         [NoWeekend(ErrorMessage = "Start date cannot be a weekend.")]
+        [NoPastDate(ErrorMessage = "Start date cannot be in the past.")]
         [DataType(DataType.Date)]
         public DateTime StartDate { get; set; }
 
         [Required]
         [NoWeekend(ErrorMessage = "End date cannot be a weekend.")]
+        [NoPastDate(ErrorMessage = "End date cannot be in the past.")]
         [DataType(DataType.Date)]
         public DateTime EndDate { get; set; }
     }

@@ -1,150 +1,148 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\",
+  "WorkspaceRootPath": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\leave\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\leave\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\leave\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\leave\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\leave\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\leave\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\helper\\selectlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\helper\\selectlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\applyleaveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\models\\applyleaveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\attribute\\noweekendattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\attribute\\noweekendattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\manager\\approvedleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\manager\\approvedleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\manager\\pendingleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\manager\\pendingleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400A32F7-89CF-4938-BB13-917F3B323998}|LeaveApprovalSystem.Domain\\LeaveApprovalSystem.Domain.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.domain\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\applyleaveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\models\\applyleaveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\attribute\\noweekendattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\attribute\\noweekendattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\manager\\approvedleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\manager\\approvedleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\manager\\pendingleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\manager\\pendingleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400A32F7-89CF-4938-BB13-917F3B323998}|LeaveApprovalSystem.Domain\\LeaveApprovalSystem.Domain.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.domain\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{400A32F7-89CF-4938-BB13-917F3B323998}|LeaveApprovalSystem.Domain\\LeaveApprovalSystem.Domain.csproj|solutionrelative:leaveapprovalsystem.domain\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400A32F7-89CF-4938-BB13-917F3B323998}|LeaveApprovalSystem.Domain\\LeaveApprovalSystem.Domain.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.domain\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{400A32F7-89CF-4938-BB13-917F3B323998}|LeaveApprovalSystem.Domain\\LeaveApprovalSystem.Domain.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.domain\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{400A32F7-89CF-4938-BB13-917F3B323998}|LeaveApprovalSystem.Domain\\LeaveApprovalSystem.Domain.csproj|solutionrelative:leaveapprovalsystem.domain\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\enums\\leavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\enums\\leavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\enums\\leavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\managerleaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\managerleaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\models\\managerleaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|solutionrelative:leaveapprovalsystem.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\leaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\models\\leaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\models\\leaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\enums\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\enums\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\enums\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.data\\leavedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.data\\leavedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|solutionrelative:leaveapprovalsystem.data\\leavedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F11E3954-29B4-4F42-B73F-4EC7A0E33ABC}|LeaveApprovalSystem.Web\\LeaveApprovalSystem.Web.csproj|solutionrelative:leaveapprovalsystem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.core\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5515BF-F674-4713-B3B3-101900D2B01F}|LeaveApprovalSystem.Core\\LeaveApprovalSystem.Core.csproj|solutionrelative:leaveapprovalsystem.core\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|d:\\learning\\leavemanagementsystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|d:\\learning\\leavesystem\\leaveapprovalsystem\\leaveapprovalsystem\\leaveapprovalsystem.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6A3CAE4-CC8B-4241-ADF0-DC9AF1EB8010}|LeaveApprovalSystem.Data\\LeaveApprovalSystem.Data.csproj|solutionrelative:leaveapprovalsystem.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveApprovalSystem\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveApprovalSystem\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveApprovalSystem\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveApprovalSystem\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaveApprovalSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +152,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -198,457 +196,440 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "SelectListHelper.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Helper\\SelectListHelper.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Helper\\SelectListHelper.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Helper\\SelectListHelper.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Helper\\SelectListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:46:45.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "NoWeekendAttribute.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Attribute\\NoWeekendAttribute.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Attribute\\NoWeekendAttribute.cs",
               "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Attribute\\NoWeekendAttribute.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Attribute\\NoWeekendAttribute.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Attribute\\NoWeekendAttribute.cs",
               "RelativeToolTip": "LeaveApprovalSystem.Core\\Attribute\\NoWeekendAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T21:13:52.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T21:13:52.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Apply.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Apply.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Apply.cshtml",
               "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Leave\\Apply.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Apply.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Apply.cshtml",
               "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Leave\\Apply.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T20:17:54.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T20:17:54.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml",
               "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml*",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Leave\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-19T20:20:39.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApprovedLeaves.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\ApprovedLeaves.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\ApprovedLeaves.cshtml",
               "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Manager\\ApprovedLeaves.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\ApprovedLeaves.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\ApprovedLeaves.cshtml",
               "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Manager\\ApprovedLeaves.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T18:14:10.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T15:30:48.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T15:21:48.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T06:51:59.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PendingLeaves.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T20:31:46.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ManagerLeaveRequestViewModel.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T20:28:20.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T20:19:39.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T20:19:33.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T20:19:29.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Domain\\EmployeeService.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\EmployeeService.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Domain\\EmployeeService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T20:12:08.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T20:11:04.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplyLeaveViewModel.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T20:04:24.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T18:14:10.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "LeaveRequestViewModel.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAfAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T20:03:37.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\appsettings.json",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\appsettings.json",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-18T19:56:48.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ManagerController.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAhwC8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T19:51:10.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LeaveController.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAApwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T19:50:43.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Program.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Program.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Program.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:45:16.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILeaveRequestService.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIA1wBAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:50:24.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LeaveRequestService.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAIwIwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:47:35.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Repository.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Data\\Repository.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Repository.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Data\\Repository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:45:01.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LeaveDbContext.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\LeaveDbContext.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Data\\LeaveDbContext.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\LeaveDbContext.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Data\\LeaveDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:38:00.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAApwAwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:23:57.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T15:30:48.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "LeaveStatus.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAewAoAAAAPAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:19:18.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T15:21:48.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LeaveType.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:18:57.717Z",
-              "EditorCaption": ""
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T06:51:59.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PendingLeaves.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Manager\\PendingLeaves.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T20:31:46.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIA4wBIAAAAjAAAAAAAAAA==",
+              "Title": "ManagerLeaveRequestViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\ManagerLeaveRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:17:50.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T20:28:20.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Entities\\Employee.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\Employee.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Core\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T20:19:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T20:19:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T20:19:29.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Domain\\EmployeeService.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\EmployeeService.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Domain\\EmployeeService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:17:05.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T20:12:08.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Program.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem.Data\\Program.cs",
-              "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Program.cs",
-              "RelativeToolTip": "LeaveApprovalSystem.Data\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T12:46:16.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T20:11:04.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplyLeaveViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\ApplyLeaveViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:04:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveRequestViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Models\\LeaveRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:03:37.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\appsettings.json",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\appsettings.json",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T19:56:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:51:10.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:50:43.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Web\\Program.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Web\\Program.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:45:16.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Interfaces\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA1wBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:50:24.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Domain\\LeaveRequestService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwIwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:47:35.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Data\\Repository.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Repository.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Data\\Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:45:01.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeaveDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\LeaveDbContext.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Data\\LeaveDbContext.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\LeaveDbContext.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Data\\LeaveDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:38:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:23:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveStatus.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Enums\\LeaveStatus.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:19:18.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Enums\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:18:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Entities\\LeaveRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA4wBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:17:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Core\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:17:05.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveApprovalSystem.Data\\Program.cs",
+              "ToolTip": "D:\\Learning\\LeaveSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem.Data\\Program.cs",
+              "RelativeToolTip": "LeaveApprovalSystem.Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:46:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Home\\Index.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-18T12:35:48.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\_ViewImports.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-18T12:32:15.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Views\\Shared\\_Layout.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-18T12:25:09.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Models\\ErrorViewModel.cs",
               "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "LeaveApprovalSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Models\\ErrorViewModel.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T12:24:58.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LeaveApprovalSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\Controllers\\HomeController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T12:24:31.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "LeaveApprovalSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\appsettings.json",
               "ToolTip": "D:\\Learning\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\appsettings.json",
-              "RelativeToolTip": "LeaveApprovalSystem\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\LeaveManagementSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\LeaveApprovalSystem\\appsettings.json",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-18T12:22:44.219Z"
             }

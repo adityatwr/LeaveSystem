@@ -78,7 +78,6 @@ namespace LeaveApprovalSystem.Web.Controllers
             return RedirectToAction("MyLeaves");
         }
 
-        // 4. GET: Edit Leave (Pending only)
         public async Task<ActionResult> Edit(int id)
         {
             var leave = await _leaveRequestService.GetLeaveRequestByIdAsync(id);
@@ -93,7 +92,6 @@ namespace LeaveApprovalSystem.Web.Controllers
             return View(vm);
         }
 
-        // 5. POST: Edit Leave
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Edit(int id, ApplyLeaveViewModel model)
@@ -106,7 +104,7 @@ namespace LeaveApprovalSystem.Web.Controllers
             return RedirectToAction("MyLeaves");
         }
 
-        // 6. Cancel (retract) Leave
+
         public async Task<ActionResult> Cancel(int id)
         {
             await _leaveRequestService.CancelLeaveRequestAsync(id, GetCurrentUserId());
@@ -114,7 +112,7 @@ namespace LeaveApprovalSystem.Web.Controllers
         }
 
 
-        // Helper to get current user/employee Id (implement as per your auth)
+        // Helper to get current user/employee Id (mimicking auth)
         private int GetCurrentUserId()
         {
             return HttpContext.Session.GetInt32("EmployeeId") ?? 0;
